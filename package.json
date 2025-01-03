@@ -2,7 +2,10 @@
   "name": "strings",
   "displayName": "strings",
   "description": "Data helpers for data processing",
+  "publisher": "degreat",
+	"repository": "https://github.com/blackmann/strings.git",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.96.0"
   },
